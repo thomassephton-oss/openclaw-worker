@@ -19,7 +19,7 @@ The following Cloudflare features used by this project have free tiers:
 - AI Gateway (optional, for API routing/analytics)
 - R2 Storage (optional, for persistence)
 
-## Container Cost Estimate
+## Container Cost Estimate 
 
 This project uses a `standard-1` Cloudflare Container instance (1/2 vCPU, 4 GiB memory, 8 GB disk). Below are approximate monthly costs assuming the container runs 24/7, based on [Cloudflare Containers pricing](https://developers.cloudflare.com/containers/pricing/):
 
